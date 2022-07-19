@@ -1,0 +1,1 @@
+Ce dossier contiendra l'ensemble des fichiers STL pour imprimer les pièces du projet.

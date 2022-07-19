@@ -2,7 +2,7 @@
 
 Projet de développement d'un bras articulé 6 axes imprimé en 3D et de sa commande...
 
-![capture_maquette_bras_6_axes.png](https://MKX-3D.github.io/bras-6-axes/images/capture_maquette_bras_6_axes.png)
+![capture_maquette_bras_6_axes.png](https://mkx-3d.github.io/bras-6-axes/images/capture_maquette_bras_6_axes.png)
 
 
 ## Objectif
@@ -15,4 +15,4 @@ Son coût faible et sa commande "ouverte", facilement modifiable et paramétrabl
 
 ## Site
 
-Pour de plus amples informations rendez-vous sur le site du projet : [https://MKX-3D.github.io/bras-6-axes/](https://MKX-3D.github.io/bras-6-axes/)
+Pour de plus amples informations rendez-vous sur le site du projet : [https://mkx-3d.github.io/bras-6-axes/](https://mkx-3d.github.io/bras-6-axes/)

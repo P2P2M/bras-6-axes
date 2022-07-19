@@ -1,0 +1,1 @@
+Ce dossier contiendra l'ensemble des fichiers SolidWorks (en version 2017-2018 ?)
