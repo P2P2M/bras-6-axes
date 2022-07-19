@@ -56,7 +56,7 @@ Dès le début de ce projet mêlant mécatronique et impression 3D, nous étions
 
 Nous recherchons donc des partenaires pour contribuer à l'évolution de cette branche, développer des activités autour d'elle et réaliser son potentiel à travers des centres de formation et des entreprises de niveau industriel. Nous sommes convaincus que son accessibilité, son faible coût d'acquisition, son utilisation modulaire de l'impression 3D et son système de contrôle ouvert et configurable joueront en notre faveur. De plus, il est modulaire grâce à l'utilisation de l'impression 3D et d'un système de contrôle ouvert et configurable. Nous voulons rendre la robotique accessible à tous !
 
-Lien pour lire l'article original en Anglais : [BCN3D » Changemakers » Ecole des Mines d’Alès’ 3D printed 6-axis robot arm](https://www.bcn3d.com/ecole-des-mines-dales-3d-printed-6-axis-robot-arm/)
+Lien pour lire l'article original en Anglais : [BCN3D » Changemakers » Ecole des Mines d’Alès’ 3D printed 6-axis robot arm](https://www.bcn3d.com/ecole-des-mines-dales-3d-printed-6-axis-robot-arm/){target=_blank}
 
 <!-- Ceci est la future page d'accueil du site présentant le projet de développement d'un bras articulé 6 axes imprimé en 3D et de sa commande...
 
