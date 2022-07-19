@@ -1,0 +1,3 @@
+A l'origine de notre projet 🦾 qui associe l'impression 3D à la Mécatronique, il y a [le bras open source MOVEO de BCN3D](https://github.com/BCN3D/BCN3D-Moveo){target=_blank}.
+
+Le bras MOVEO est lui même basé sur un projet de [Andreas Hölldorfer](http://chaozlabs.blogspot.de/){target=_blank} visible sur [Hackaday.io](https://hackaday.io/project/3800-3d-printable-robot-arm){target=_blank}, [Github](https://github.com/4ndreas/BetaBots-Robot-Arm-Project/tree/master){target=_blank}, [Youtube](https://www.youtube.com/channel/UCeFKz1UJUd5YuxS1ZikqYwA){target=_blank}.
