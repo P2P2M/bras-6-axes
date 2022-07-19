@@ -1,7 +1,7 @@
 
 # Bras robotique 6 axes imprimé en 3D de l'Ecole des Mines d'Alès
 
-[![Philippe & Pascal](./images/Changemakers-blog-post-image-11.jpg){.center}](https://www.bcn3d.com/ecole-des-mines-dales-3d-printed-6-axis-robot-arm/){target=_blank}
+[![Philippe & Pascal](./images/Changemakers-blog-post-image-modif.jpg){.center}](https://www.bcn3d.com/ecole-des-mines-dales-3d-printed-6-axis-robot-arm/){target=_blank}
 
 Nous sommes deux professeurs qui enseignons les Sciences du Génie Industriel depuis environ 20 ans. Après quelques années en région parisienne, nous avons atterri à l'académie de Montpellier, au lycée Albert Einstein de Bagnols-sur-Cèze. Depuis octobre 2017, nous enseignons également la Robotique à l' [Ecole des Mines d'Alès](https://www.imt-mines-ales.fr/){target=_blank} aux futurs ingénieurs en Mécatronique.
 

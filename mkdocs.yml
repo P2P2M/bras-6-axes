@@ -32,9 +32,10 @@ theme:
     # custom_dir: overrides #  
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
-    icon:
-      logo: fontawesome/solid/cogs # image qui apparait dans l'en tête à gauche du titre de la page
+    logo: images/LogoIO.png # image qui apparait dans l'en tête à gauche du titre de la page
       # et qui est support du lien qui renvoie à la racine du site depuis toutes les pages
+    favicon: images/LogoIO-red.png
+    icon:
       repo: fontawesome/brands/github-alt # modifie l'icône du lien vers le dépot du projet de l'en tête
     
     # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
@@ -107,8 +108,7 @@ plugins:
 # Information de droit d'auteur qui s'affiche dans le pied de page pour toutes les pages du site
 copyright: >
     Document partagé par <a href="https://github.com/MKX-3D" target="_blank">MKX-3D</a>
-    &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
-    <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
+    &copy; 2022 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>    
 
 
 ### Configuration de liens sociaux https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#social-links 
